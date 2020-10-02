@@ -70,6 +70,9 @@ nav{
     transition: 500ms;
 }
 
+.nav-link{
+    transition: 500ms;
+}
 
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
